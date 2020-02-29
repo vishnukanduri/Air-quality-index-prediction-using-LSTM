@@ -8,6 +8,8 @@ The dataset contains the data starting from January 1, 2013 to February 28, 2017
 It encompasses the concentrations of different pollutants for each hour of the day along with the data of the environmental conditions.
 Pollutants include PM2.5, PM10, SO2, NO2, CO, O3. Environmental conditions include temperature, pressure, dewpoint, rain, wind directon and wind speed per minute.
 
+Also, I have just displayed the first 5 entries of all the output arrays and lists. The reason I did so was I didn't want you to scroll through a massive number of entries.
+
 
 
 
